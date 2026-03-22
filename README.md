@@ -1,6 +1,7 @@
 # Proyecto Integrador Analítica 📊
 
 ### Análisis de datos sobre el uso de redes sociales y su influencia en la salud mental y el desempeño académico
+  **Elaborado por:** Susana Aguirre, Juan Pablo Moncada y Samuel Muñoz.
 
 Este repositorio contiene los conjuntos de datos utilizados en un análisis orientado a comprender la influencia del uso de redes sociales en la vida de los estudiantes, específicamente en su salud mental y su desempeño académico.
 
