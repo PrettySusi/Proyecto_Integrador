@@ -1,16 +1,16 @@
 # Proyecto Integrador Analítica 📊
 
-### Análisis de datos sobre el uso de redes sociales y su influencia en la salud mental y el desempeño académico
+### Análisis de datos sobre brecha digital, educación e ingresos por país
   **Elaborado por:** Susana Aguirre, Juan Pablo Moncada y Samuel Muñoz.
 
-Este repositorio contiene los conjuntos de datos utilizados en un análisis orientado a comprender la influencia del uso de redes sociales en la vida de los estudiantes, específicamente en su salud mental y su desempeño académico.
+Este repositorio contiene los conjuntos de datos utilizados en un análisis orientado a comprender cómo el nivel educativo y el ingreso de los países influyen en los patrones de uso de redes sociales a escala global.
 
-En la actualidad, las redes sociales forman parte de la rutina diaria de estudiantes de secundaria y educación superior. Sin embargo, su uso intensivo especialmente durante el tiempo de estudio, puede generar distracciones, disminuir la concentración y afectar negativamente el rendimiento académico. Adicionalmente, se ha evidenciado una posible relación entre el uso excesivo de estas plataformas y la aparición de síntomas como ansiedad, estrés y alteraciones en el sueño.
+En la actualidad, las redes sociales han transformado profundamente la forma en que las personas acceden a la información y participan en la sociedad. Sin embargo, esta transformación no ha sido uniforme entre países: las diferencias en habilidades digitales, nivel educativo e ingreso económico generan una brecha que no se limita al acceso a la tecnología, sino que abarca también el propósito con que se usan las plataformas. Evidencia de gran escala muestra que los países con menor nivel educativo e ingresos concentran su actividad digital en entretenimiento, mientras que los de mayor capital educativo orientan su uso hacia la búsqueda de información, participación y trabajo.
 
 A partir de esta problemática, el proyecto busca analizar datos que permitan responder preguntas clave como:
 
-- ¿Cómo influye el uso de redes sociales durante el estudio en el rendimiento académico?
-- ¿Qué relación existe entre el uso intensivo de redes y la salud mental?
-- ¿Cómo afectan plataformas de consumo rápido (como las de scroll infinito) los hábitos de estudio y la atención?
+- ¿Cómo influye el nivel educativo de un país en el tiempo de uso de redes sociales de sus usuarios?
+- ¿Existe relación entre el ingreso del país y el comportamiento digital de sus usuarios?
+- ¿El propósito de uso de redes sociales cambia según el nivel educativo del país?
 
-Para ello, se integran dos bases de datos de acceso público que contienen información sobre hábitos digitales, estilos de vida, variables académicas y bienestar emocional en estudiantes. Esta combinación permite contrastar percepciones subjetivas con indicadores cuantitativos como el promedio académico (GPA) y niveles de estrés.
+Para ello, se integran dos bases de datos de acceso público que contienen información sobre comportamiento digital, nivel educativo e ingresos por país. Esta combinación permite identificar patrones estructurales en el uso de redes sociales y contrastar el comportamiento digital entre regiones con distintos contextos socioeconómicos.
